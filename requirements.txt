@@ -1,0 +1,6 @@
+numpy
+scipy
+pandas
+statsmodels
+pytest
+streamlit
